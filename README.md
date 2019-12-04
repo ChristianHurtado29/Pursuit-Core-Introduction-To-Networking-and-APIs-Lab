@@ -7,14 +7,32 @@ API Scavenger Hunt!
 For each of the questions below, identify a website and search query that will give you the appropriate JSON.  Paste the url and a snippet of the json below.  Googling the category + API will generally take you to where you need.  Ex. https://lmgtfy.com/?q=cat+fact+api
 
 1. A random cat fact
+```
+https://catfact.ninja/breeds?limit=1
+```
 1. A list of 150 random users in English.
+```
+https://randomuser.me/
+```
 1. All the repos on Github with Pursuit their name
 1. All the JavaScript repos on Github with Pursuit in their name
 1. All the Swift repos on Github with Pursuit in their name
 1. A list of all Pokemon
+```
+https://pokeapi.co/
+```
 1. A list of all items in Fortnite
+```
+https://fortnitetracker.com/site-api
+```
 1. A list of all Game of Thrones Episodes.
+```
+https://api.got.show/api/map/episodes
+```
 1. A list of all songs with "Love" in the title.
+```
+https://api.spotify.com/v1/search?q=Love
+```
 1. All information about Petyr Baelish from the Game of Thrones books
 1. All the movies Leonardo Dicaprio has acted in
 
